@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Advait Tumbre",
+    "label": "FullStack Web Developer",
+    "image": "",
+    "email": "advait25tumbre@gmail.com",
+    "phone": [9920159439,9324605093],
+    "url": "https://github.com/DevAdvait",
+    "summary": "FullStack Web Developer, currently pursuing BSc in Data Science from IIT Madras.",
+    "location": {
+      "address": "Om Shivam Krupa, rambaug - 4, Kalyan",
+      "postalCode": "421301",
+      "city": "Kalyan West",
+      "countryCode": "IN",
+      "region": "Maharashtra"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "advaittumbre",
+      "url": "https://twitter.com/advaittumbre"
+    }]
+  },
+  
+  "education": [{
+    "ssc":{
+      "institution": "Maharashtra State Board for primary and seconday education",
+      
+      "area": "10th",
+      "studyType": "SSC",
+      "startDate": "2003-03-01",
+      "endDate": "2014-05-01",
+      "score": "83.80%",
+      "courses": [
+        "Maths, Science, English"
+      ]},
+    "hsc":{
+        "institution": "Maharashtra State Board for higher secondary education",
+        
+        "area": "12th",
+        "studyType": "HSC",
+        "startDate": "2014-08-01",
+        "endDate": "2016-03-01",
+        "score": "60%",
+        "courses": [
+          "Science"
+        ]
+    },
+    "under-graduate":{
+      "institution": "IIT Madras",
+      
+      "area": "Data Science and programming",
+      "studyType": "Graduation",
+      "startDate": "2021-10-28",
+      "endDate": "2024-01-01",
+      
+      "courses": [
+        "Maths, Stats, Programming with python"
+      ]
+  }
+
+  }],
+  
+  
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "3D Modelling",
+    "level": "Advance",
+    "keywords": [
+      "Blender",
+      "AutoCAD",
+      "Unity"
+    ]
+  },
+  {
+    "name": "Python Programming",
+    "level": "Advance",
+    "keywords": [
+      "PIP",
+      "Tkinter",
+      "beautifulsoup"
+    ]
+  }
+],
+  "languages": [{
+    "language": "English",
+    "fluency": "Advanced"
+  },
+  {
+    "language": "Marathi",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "Hindi",
+    "fluency": "Native speaker"
+  }
+],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Tigers",
+      "Lions"
+    ]
+  },
+  {
+    "name": "Trekking",
+    "keywords": [
+      "prabalgad",
+      "harishchandragad",
+      "rajmachi",
+      "raigad"
+    ]
+  },
+  {
+    "name": "Football",
+    "keywords": [
+      "Midfielder",
+      "Manchester United"
+    ]
+  }
+] 
+}
